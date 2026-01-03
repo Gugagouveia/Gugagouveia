@@ -34,18 +34,7 @@
 
 ---
 
-## 📌 Projetos em Destaque
 
-<p align="center">
-  <a href="https://github.com/gustavo-gouveia/portfolio-nextjs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavo-gouveia&repo=portfolio-nextjs&theme=radical" alt="Portfolio Next.js" />
-  </a>
-  <a href="https://github.com/gustavo-gouveia/seller-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavo-gouveia&repo=seller-app&theme=radical" alt="Seller App" />
-  </a>
-</p>
-
----
 
 ## 💡 Sobre mim
 
