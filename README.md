@@ -1,44 +1,48 @@
-<h1 align="center">Olá! Eu sou Gustavo Gouveia 👋</h1>
+# 🚀 Olá, eu sou o Gustavo Gouveia
 
-<p align="center">
-  Desenvolvedor Full-Stack apaixonado por tecnologia, aprendizado contínuo e criação de soluções que fazem a diferença.
+<p align="left">
+  <strong>Desenvolvedor Full-Stack</strong> apaixonado por transformar ideias em código e criar soluções que geram impacto real.
 </p>
 
 ---
 
-## 🌐 Conecte-se comigo
+### 🛠️ Tecnologias & Ferramentas
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Front-end** | Next.js, React.js, Tailwind CSS, TypeScript |
+| **Back-end** | Node.js, Express, Fastify |
+| **DevOps & DB** | Docker, PostgreSQL, MongoDB |
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-gouveia&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-gouveia&layout=compact&langs_count=7&theme=radical" />
+</div>
+
+---
+
+### 📌 Repositório em Destaque
+
+<div align="center">
+  <a href="https://github.com/gustavo-gouveia/portfolio-nextjs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavo-gouveia&repo=portfolio-nextjs&theme=radical" alt="Portfolio Next.js"/>
+  </a>
+</div>
+
+---
+
+### 🌐 Conecte-se Comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavo-gouveia-3b341825a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/gugaa_gouveia/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:gustavo_agj@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
----
-
-## 📈 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavo-gouveia&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-gouveia&layout=donut-vertical&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-
-
-## 💡 Sobre mim
-
-- 👨‍💻 Trabalho com **Next.js, React, Node.js e Docker**.
-- 📚 Sempre aprendendo novas tecnologias e boas práticas.
-- 🌱 Apaixonado por **desenvolvimento full-stack e infraestrutura na nuvem**.
-- ⚡ Curiosidade: adoro automatizar processos e construir soluções escaláveis.
