@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou Gustavo Gouveia 👋</h1>
 
 <p align="center">
-  Desenvolvedor apaixonado por tecnologia, aprendizado contínuo e criação de soluções que fazem a diferença.
+  Desenvolvedor Full-Stack apaixonado por tecnologia, aprendizado contínuo e criação de soluções que fazem a diferença.
 </p>
 
 ---
@@ -15,24 +15,41 @@
   <a href="https://www.instagram.com/gugaa_gouveia/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
+  <a href="mailto:gustavo_agj@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
 
-## 📈 Atividades no GitHub
+## 📈 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavo-gouveia&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-gouveia&layout=donut-vertical&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-## 📌 Repositório em Destaque
+## 📌 Projetos em Destaque
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" alt="Readme Card" />
+  <a href="https://github.com/gustavo-gouveia/portfolio-nextjs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavo-gouveia&repo=portfolio-nextjs&theme=radical" alt="Portfolio Next.js" />
+  </a>
+  <a href="https://github.com/gustavo-gouveia/seller-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavo-gouveia&repo=seller-app&theme=radical" alt="Seller App" />
+  </a>
+</p>
+
+---
+
+## 💡 Sobre mim
+
+- 👨‍💻 Trabalho com **Next.js, React, Node.js e Docker**.
+- 📚 Sempre aprendendo novas tecnologias e boas práticas.
+- 🌱 Apaixonado por **desenvolvimento full-stack e infraestrutura na nuvem**.
+- ⚡ Curiosidade: adoro automatizar processos e construir soluções escaláveis.
